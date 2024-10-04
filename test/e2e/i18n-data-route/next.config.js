@@ -6,4 +6,4 @@ module.exports = {
     locales: ['en-CA', 'fr-CA'],
     defaultLocale: 'en-CA',
   },
-}
+};

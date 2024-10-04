@@ -3,4 +3,4 @@ module.exports = {
     loader: "imgix",
     path: "https://example.com/"
   },
-}
+};

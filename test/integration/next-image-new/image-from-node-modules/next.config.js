@@ -3,4 +3,4 @@ module.exports = {
     domains: ['i.imgur.com'],
     deviceSizes: [1234],
   },
-}
+};

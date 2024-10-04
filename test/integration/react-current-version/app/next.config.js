@@ -5,4 +5,4 @@ module.exports = {
     imageSizes: [16, 32, 48, 64],
     formats: ['image/avif', 'image/webp'],
   },
-}
+};

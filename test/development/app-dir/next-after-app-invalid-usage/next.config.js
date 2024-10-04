@@ -3,4 +3,4 @@ module.exports = {
   experimental: {
     after: true,
   },
-}
+};

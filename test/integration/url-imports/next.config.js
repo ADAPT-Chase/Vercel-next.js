@@ -5,4 +5,4 @@ module.exports = {
       'https://github.com/vercel/next.js/raw/canary/',
     ],
   },
-}
+};

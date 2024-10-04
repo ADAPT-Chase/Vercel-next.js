@@ -4,4 +4,4 @@ const nextConfig = {
   transpilePackages: ['@react-dnd/invariant'],
 }
 
-module.exports = nextConfig
+module.exports = nextConfig;

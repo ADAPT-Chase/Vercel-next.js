@@ -5,4 +5,4 @@ module.exports = {
     path: 'https://globalresolver.com/myaccount/',
     loader: 'imgix',
   },
-}
+};

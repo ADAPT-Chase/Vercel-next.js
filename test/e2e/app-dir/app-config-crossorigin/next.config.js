@@ -13,4 +13,4 @@ module.exports = {
    * So we use "use-credentials" here for easier testing.
    */
   crossOrigin: 'use-credentials',
-}
+};

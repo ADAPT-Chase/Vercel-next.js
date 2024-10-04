@@ -7,4 +7,4 @@ module.exports = {
     'transitive-external',
     'esm',
   ],
-}
+};

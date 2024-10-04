@@ -4,4 +4,4 @@ module.exports = {
       '.js': ['.ts', '.tsx', '.js', '.jsx'],
     },
   },
-}
+};

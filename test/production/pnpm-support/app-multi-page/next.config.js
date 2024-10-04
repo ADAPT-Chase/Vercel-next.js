@@ -6,4 +6,4 @@ module.exports = {
     // pnpm virtual-store-dir is outside the app directory
     outputFileTracingRoot: path.resolve(__dirname, '../'),
   },
-}
+};

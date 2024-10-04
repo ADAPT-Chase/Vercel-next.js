@@ -7,4 +7,4 @@ module.exports = {
     clientRouterFilter: true,
     clientRouterFilterRedirects: true,
   },
-}
+};

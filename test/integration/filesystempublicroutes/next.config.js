@@ -9,4 +9,4 @@ module.exports = {
       '/exportpathmap-route': { page: '/exportpathmap-route' },
     }
   },
-}
+};

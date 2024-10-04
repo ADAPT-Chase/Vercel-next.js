@@ -6,4 +6,4 @@ module.exports = {
   experimental: {
     strictNextHead: process.env.TEST_STRICT_NEXT_HEAD !== 'false',
   },
-}
+};

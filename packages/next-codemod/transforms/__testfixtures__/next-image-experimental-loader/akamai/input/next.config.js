@@ -3,4 +3,4 @@ module.exports = {
     loader: "akamai",
     path: "https://example.com/"
   },
-}
+};

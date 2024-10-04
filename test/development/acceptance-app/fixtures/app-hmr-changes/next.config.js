@@ -13,4 +13,4 @@ module.exports = withMDX({
       'images-na.ssl-images-amazon.com',
     ],
   },
-})
+});

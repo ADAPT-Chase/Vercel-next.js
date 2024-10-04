@@ -3,4 +3,4 @@ module.exports = {
     ppr: true,
     pprFallbacks: true,
   },
-}
+};

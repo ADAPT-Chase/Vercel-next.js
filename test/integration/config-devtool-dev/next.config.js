@@ -3,4 +3,4 @@ module.exports = {
     config.devtool = false
     return config
   },
-}
+};

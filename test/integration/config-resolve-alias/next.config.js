@@ -3,4 +3,4 @@ module.exports = {
     config.resolve.alias = {}
     return config
   },
-}
+};

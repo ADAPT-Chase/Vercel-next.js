@@ -5,4 +5,4 @@ const nextConfig = {
   transpilePackages: ['@aws-sdk/client-s3'],
 }
 
-module.exports = nextConfig
+module.exports = nextConfig;

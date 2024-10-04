@@ -3,4 +3,4 @@ module.exports = (phase) => {
     output: 'export',
     trailingSlash: false,
   }
-}
+};

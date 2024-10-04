@@ -43,4 +43,4 @@ module.exports = {
     // Make sure we have sane default CSP, even when SVG is enabled
     dangerouslyAllowSVG: true,
   },
-}
+};

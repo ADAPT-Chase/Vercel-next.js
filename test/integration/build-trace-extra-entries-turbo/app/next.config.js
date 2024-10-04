@@ -32,4 +32,4 @@ module.exports = {
       contextDirectory: path.join(__dirname, '..', '..', '..', '..'),
     },
   },
-}
+};

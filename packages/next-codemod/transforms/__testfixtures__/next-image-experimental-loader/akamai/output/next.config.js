@@ -3,4 +3,4 @@ module.exports = {
     loader: "custom",
     loaderFile: "./akamai-loader.js"
   },
-}
+};

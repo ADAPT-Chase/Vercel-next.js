@@ -27,4 +27,4 @@ module.exports = {
     '/index': ['public/exclude-me/**/*'],
     '/route1': ['public/exclude-me/**/*'],
   },
-}
+};

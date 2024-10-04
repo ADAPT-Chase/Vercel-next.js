@@ -5,4 +5,4 @@ module.exports = withPwa({
     loader: "cloudinary",
     path: "https://example.com/"
   },
-})
+});

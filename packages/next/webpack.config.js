@@ -282,24 +282,4 @@ module.exports = ({ dev, turbo, bundleType, experimental }) => {
       layers: true,
     },
   }
-}
-
-function calculateUniquePort(dev, turbo, experimental, bundleType) {
-  const devOffset = dev ? 1000 : 0
-  const turboOffset = turbo ? 200 : 0
-  const experimentalOffset = experimental ? 40 : 0
-  let bundleTypeOffset
-
-  switch (bundleType) {
-    case 'app':
-      bundleTypeOffset = 1
-      break
-    case 'pages':
-      bundleTypeOffset = 2
-      break
-    default:
-      bundleTypeOffset = 3
-  }
-
-  return 8888 + devOffset + turboOffset + experimentalOffset + bundleTypeOffset
-}
+};

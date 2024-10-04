@@ -5,4 +5,4 @@ const nextConfig = {
   logging: false,
 }
 
-module.exports = nextConfig
+module.exports = nextConfig;

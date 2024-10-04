@@ -3,4 +3,4 @@ module.exports = {
     loader: 'custom',
     loaderFile: './dummy-loader.js',
   },
-}
+};

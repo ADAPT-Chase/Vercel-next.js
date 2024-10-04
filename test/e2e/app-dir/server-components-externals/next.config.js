@@ -5,4 +5,4 @@ const nextConfig = {
   serverExternalPackages: ['external-package'],
 }
 
-module.exports = nextConfig
+module.exports = nextConfig;

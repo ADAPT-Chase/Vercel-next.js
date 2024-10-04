@@ -5,4 +5,4 @@ module.exports = withPwa({
     loader: "custom",
     loaderFile: "./cloudinary-loader.js"
   },
-})
+});

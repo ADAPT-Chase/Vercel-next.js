@@ -4,4 +4,4 @@ module.exports = {
   images: {
     deviceSizes: [640, 828],
   },
-}
+};

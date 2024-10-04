@@ -5,4 +5,4 @@ const nextConfig = {
   experimental: {},
 }
 
-module.exports = nextConfig
+module.exports = nextConfig;

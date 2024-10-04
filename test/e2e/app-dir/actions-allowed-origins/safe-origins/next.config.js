@@ -9,4 +9,4 @@ module.exports = {
       allowedOrigins: ['localhost:' + process.env.PORT],
     },
   },
-}
+};

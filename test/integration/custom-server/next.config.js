@@ -4,4 +4,4 @@ module.exports = {
     maxInactiveAge: 1000 * 60 * 60,
   },
   generateEtags: process.env.GENERATE_ETAGS === 'true',
-}
+};

@@ -5,4 +5,4 @@ module.exports = {
       '/regression/jeff-is-cool': { page: '/regression/[slug]' },
     }
   },
-}
+};

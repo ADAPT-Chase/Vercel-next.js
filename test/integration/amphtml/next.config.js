@@ -7,4 +7,4 @@ module.exports = {
     canonicalBase: 'http://localhost:1234',
   },
   // edit here
-}
+};

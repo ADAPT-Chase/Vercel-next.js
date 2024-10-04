@@ -3,4 +3,4 @@ module.exports = {
     domains: ['image-optimization-test.vercel.app'],
     // disableStaticImages: true,
   },
-}
+};

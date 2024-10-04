@@ -6,4 +6,4 @@ module.exports = {
       'my-test-key-2',
     ],
   },
-}
+};

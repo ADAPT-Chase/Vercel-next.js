@@ -5,4 +5,4 @@ module.exports = {
     path: 'https://example.com/myaccount/',
     loader: 'imgix',
   },
-}
+};

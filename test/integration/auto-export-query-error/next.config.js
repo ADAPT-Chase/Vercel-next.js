@@ -7,4 +7,4 @@ module.exports = {
       '/ssr': { page: '/ssr', query: { another: 'one' } },
     }
   },
-}
+};

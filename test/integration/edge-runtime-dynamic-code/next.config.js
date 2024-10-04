@@ -3,4 +3,4 @@ module.exports = {
     config.experiments = { ...config.experiments, asyncWebAssembly: true }
     return config
   },
-}
+};

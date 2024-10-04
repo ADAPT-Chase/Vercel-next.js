@@ -3,4 +3,4 @@ module.exports = {
     loader: "cloudinary",
     path: "https://example.com/"
   },
-}
+};

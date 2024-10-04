@@ -4,4 +4,4 @@ module.exports = {
     after: true,
     testProxy: true,
   },
-}
+};

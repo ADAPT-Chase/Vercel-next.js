@@ -28,4 +28,4 @@ module.exports = {
   async generateBuildId() {
     return 'custom-buildid'
   },
-}
+};

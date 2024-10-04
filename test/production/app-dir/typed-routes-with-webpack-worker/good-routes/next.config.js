@@ -5,4 +5,4 @@ module.exports = {
     parallelServerBuildTraces: true,
     webpackBuildWorker: true,
   },
-}
+};
